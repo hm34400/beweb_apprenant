@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Apprenants</string>
+    <string name="titleListe">Liste Des Apprenants</string>
+    <string name="ListA_Spinner_promo">1</string>
+    <string name="ListA_Spinner_session">2016/2017</string>
+    <string name="ListA_Spinner_skills">html</string>
+    <string-array name="ListA_spinner_promo_item">
+        <item>promo 1</item>
+        <item>promo 2</item>
+    </string-array>
+    <string-array name="ListA_spinner_session_item">
+        <item>session 1</item>
+        <item>session 2</item>
+    </string-array>
+    <string-array name="ListA_spinner_skill_item">
+        <item>skill 1</item>
+        <item>skill 2</item>
+    </string-array>
+    <string name="detailA_nom">El Yaagoubi</string>
+    <string name="detailA_prenom">Hicham</string>
+    <string name="detailA_age">25 ans</string>
+    <string name="detailA_tel">0612345678</string>
+    <string name="detailA_email">hichamelyaagoubi34@gmail.com</string>
+    <string name="detailA_url_portfolio">https://www.google.fr</string>
+    <string name="detailA_url_linkedin">https://www.google.fr</string>
+    <string name="detailA_url_facebook">https://www.google.fr</string>
+    <string name="detailA_url_twitter">https://www.google.fr</string>
+    <string name="detailA_url_github">https://www.google.fr</string>
+    <string name="detailA_photo">MyFace</string>
+
+    <string name="detailA_titre_skills">Compétence</string>
+    <string name="detailA_liste_skills"></string>
+
+    <string name="detailA_titre_projet">Projet</string>
+    <string name="detailA_liste_projet"></string>
+
+    <string name="detailA_titre_formation">Formation</string>
+    <string name="detailA_liste_formation"></string>
+
+    <string name="detailA_titre_infos_persos">A Propos</string>
+    <string name="detailA_infos_persos"></string>
+
+
+</resources>
